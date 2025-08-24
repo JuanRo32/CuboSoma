@@ -1,5 +1,5 @@
-# CuboSoma
-# 🚀 Nombre del Proyecto
+
+# 🚀 CuboSoma
 
 <img width="500" height="375" alt="image" src="https://github.com/user-attachments/assets/2ce5d547-25b5-4d68-be45-50a780ca5a7d" />
 
